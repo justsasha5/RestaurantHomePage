@@ -19,6 +19,8 @@ h2{
     display: inline;
     overflow: hidden;
     text-align: center;
+    margin: 1px 1px 20px;
+   font-size: 17px;
 }
 
 /*NAV BAR CSS*/
